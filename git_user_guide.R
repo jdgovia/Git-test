@@ -6,7 +6,7 @@
 #usethis package
 
 library(usethis)
-use_git_config(user.name = "Janelle Daniel-Govia", user.email = "janelledaniel@gmail.com")
+use_git_config(user.name = "FirstName LastName", user.email = "email@email.com")
 #above changes git config file to learn name and email address, need to run every time 
 
 ##-- initalize a git repository
